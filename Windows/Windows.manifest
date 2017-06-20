@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 1492656188
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cubetestbundle
+      Dependencies: {}
+    Info_1:
+      Name: museum
+      Dependencies: {}
+    Info_2:
+      Name: museum2
+      Dependencies: {}
