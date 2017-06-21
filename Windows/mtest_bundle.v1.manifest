@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 2849588883
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c5ce398b282fae9f77dd8844f8a853c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/_Content/MTest.unity
+Dependencies: []
